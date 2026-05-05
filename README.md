@@ -1,4 +1,4 @@
-# hypervisor
+# nanovisor
 
 A minimal, educational ARM64 hypervisor for Apple Silicon, built on macOS
 Hypervisor.framework. The whole thing is under 100 lines of C++ — small
